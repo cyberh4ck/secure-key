@@ -1,0 +1,2 @@
+# secure-key
+VALID FREE PRODUCT KEYS
