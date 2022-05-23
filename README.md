@@ -22,9 +22,9 @@
 
 ```figlet```
 
-```lolcat'''
+```lolcat```
 
-'''bash'''
+```bash```
 
 ## WORKING STEPS
 
@@ -32,7 +32,7 @@
 
 ``` chmod +x *```
 
-``` bash secure.sh``
+``` bash secure.sh```
 
 ## SCREENSHOT
 
